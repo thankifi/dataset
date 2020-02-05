@@ -72,6 +72,25 @@
 		{ "Id": 9, "Language": "eng", "Text": "Thank you{ {NAME}}. That’s very kind of you.", "Categories": ["Basic"] },
 		{ "Id": 10, "Language": "eng", "Text": "Thank you{ {NAME}}. You’re so helpful.", "Categories": ["Basic", "Help"] },
 		{ "Id": 11, "Language": "eng", "Text": "Thanks for your kind words{ {NAME}}.", "Categories": ["Compliment"] },
-		{ "Id": 12, "Language": "eng", "Text": "Thank you{ {NAME} }I really appreciate your help.", "Categories": ["Basic", "Help"] }
+		{ "Id": 12, "Language": "eng", "Text": "Thank you{ {NAME} }I really appreciate your help.", "Categories": ["Help"] },
+		{ "Id": 13, "Language": "eng", "Text": "{{NAME}}I want you to know how much I value your support.", "Categories": ["Help"] },
+		{ "Id": 14, "Language": "eng", "Text": "I really appreciate all the hard work you’ve done to help me{ {NAME}}.", "Categories": ["Help"] },
+		{ "Id": 15, "Language": "eng", "Text": "How can I ever thank you enough? Thank you{ {NAME}}.", "Categories": ["Help"] },
+		{ "Id": 16, "Language": "eng", "Text": "I wholeheartedly appreciate everything you’ve done for me{ {NAME}}.", "Categories": ["Help"] },
+		{ "Id": 17, "Language": "eng", "Text": "Thank you for your guidance and support{ {NAME}}.", "Categories": ["Help"] },
+		{ "Id": 18, "Language": "eng", "Text": "I cannot thank you enough for helping me{ {NAME}}.", "Categories": ["Help"] },
+		{ "Id": 19, "Language": "eng", "Text": "Thank you for sharing your wisdom with me{ {NAME}}", "Categories": ["Help"] },
+		{ "Id": 20, "Language": "eng", "Text": "Thank you for coming{ {NAME}}.", "Categories": ["Wedding", "Birthday"] },
+		{ "Id": 21, "Language": "eng", "Text": "Thank you for joining us today{ {NAME}}.", "Categories": ["Wedding"] },
+		{ "Id": 22, "Language": "eng", "Text": "We appreciate you sharing our celebrations with us{ {NAME}}.", "Categories": ["Wedding"] },
+		{ "Id": 23, "Language": "eng", "Text": "Thank you{ {NAME} }for sharing this special day with us.", "Categories": ["Wedding"] },
+		{ "Id": 24, "Language": "eng", "Text": "We really appreciate your presence here{ {NAME}}.", "Categories": ["Wedding"] },
+		{ "Id": 25, "Language": "eng", "Text": "Thank you for the gift{ {NAME}}, we’re very grateful.", "Categories": ["Wedding"] },
+		{ "Id": 26, "Language": "eng", "Text": "I cannot thank you enough for the wonderful gift{ {NAME}}.", "Categories": ["Wedding"] },
+		{ "Id": 27, "Language": "eng", "Text": "We will remember this day and your contribution forever.", "Categories": ["Wedding"] },
+		{ "Id": 28, "Language": "eng", "Text": "You were invaluable today{ {NAME}}, thank you for all your help.", "Categories": ["Wedding", "Help", "Birthday"] },
+		{ "Id": 29, "Language": "eng", "Text": "What would we have done without your help? Thank you so much{ {NAME}}. (Rhetorical question)", "Categories": ["Wedding"] },
+		{ "Id": 30, "Language": "eng", "Text": "Thank you ever so much for your generous gift{ {NAME}}.", "Categories": ["Wedding", "Birthday"] },
+		{ "Id": 31, "Language": "eng", "Text": "Words cannot describe how grateful we are{ {NAME}}.", "Categories": ["Wedding"] }
 	]
 }
