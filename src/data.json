@@ -73,7 +73,7 @@
 		{ "Id": 10, "Language": "eng", "Text": "Thank you{ {NAME}}. You’re so helpful.", "Categories": ["Basic", "Help"] },
 		{ "Id": 11, "Language": "eng", "Text": "Thanks for your kind words{ {NAME}}.", "Categories": ["Compliment"] },
 		{ "Id": 12, "Language": "eng", "Text": "Thank you{ {NAME} }I really appreciate your help.", "Categories": ["Help"] },
-		{ "Id": 13, "Language": "eng", "Text": "{{NAME}}I want you to know how much I value your support.", "Categories": ["Help"] },
+		{ "Id": 13, "Language": "eng", "Text": "{{NAME} }I want you to know how much I value your support.", "Categories": ["Help"] },
 		{ "Id": 14, "Language": "eng", "Text": "I really appreciate all the hard work you’ve done to help me{ {NAME}}.", "Categories": ["Help"] },
 		{ "Id": 15, "Language": "eng", "Text": "How can I ever thank you enough? Thank you{ {NAME}}.", "Categories": ["Help"] },
 		{ "Id": 16, "Language": "eng", "Text": "I wholeheartedly appreciate everything you’ve done for me{ {NAME}}.", "Categories": ["Help"] },
