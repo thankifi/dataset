@@ -86,11 +86,17 @@
 		{ "Id": 23, "Language": "eng", "Text": "Thank you{ {NAME} }for sharing this special day with us.", "Categories": ["Wedding"] },
 		{ "Id": 24, "Language": "eng", "Text": "We really appreciate your presence here{ {NAME}}.", "Categories": ["Wedding"] },
 		{ "Id": 25, "Language": "eng", "Text": "Thank you for the gift{ {NAME}}, we’re very grateful.", "Categories": ["Wedding"] },
-		{ "Id": 26, "Language": "eng", "Text": "I cannot thank you enough for the wonderful gift{ {NAME}}.", "Categories": ["Wedding"] },
+		{ "Id": 26, "Language": "eng", "Text": "We cannot thank you enough for the wonderful gift{ {NAME}}.", "Categories": ["Wedding"] },
 		{ "Id": 27, "Language": "eng", "Text": "We will remember this day and your contribution forever.", "Categories": ["Wedding"] },
 		{ "Id": 28, "Language": "eng", "Text": "You were invaluable today{ {NAME}}, thank you for all your help.", "Categories": ["Wedding", "Help", "Birthday"] },
 		{ "Id": 29, "Language": "eng", "Text": "What would we have done without your help? Thank you so much{ {NAME}}. (Rhetorical question)", "Categories": ["Wedding"] },
 		{ "Id": 30, "Language": "eng", "Text": "Thank you ever so much for your generous gift{ {NAME}}.", "Categories": ["Wedding", "Birthday"] },
-		{ "Id": 31, "Language": "eng", "Text": "Words cannot describe how grateful we are{ {NAME}}.", "Categories": ["Wedding"] }
+		{ "Id": 31, "Language": "eng", "Text": "Words cannot describe how grateful we are{ {NAME}}.", "Categories": ["Wedding"] },
+		{ "Id": 32, "Language": "eng", "Text": "Thank you for joining me today{ {NAME}}.", "Categories": ["Birthday"] },
+		{ "Id": 33, "Language": "eng", "Text": "Thank you{ {NAME} }for sharing this special day with me.", "Categories": ["Birthday"] },
+		{ "Id": 34, "Language": "eng", "Text": "I really appreciate your presence here{ {NAME}}.", "Categories": ["Birthday"] },
+		{ "Id": 35, "Language": "eng", "Text": "Thank you for the gift{ {NAME}}, I'm very grateful.", "Categories": ["Birthday"] },
+		{ "Id": 36, "Language": "eng", "Text": "I cannot thank you enough for the wonderful gift{ {NAME}}.", "Categories": ["Birthday"] },
+		{ "Id": 37, "Language": "eng", "Text": "Words cannot describe how grateful I'm are{ {NAME}}.", "Categories": ["Basic", "Birthday"] }
 	]
 }
