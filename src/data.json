@@ -200,5 +200,6 @@
 		{ "Id": 133, "Language": "eng", "Text": "What you did for me was kind of a big deal. Thank you{ {NAME}}.", "Categories": ["Basic"] },
 		{ "Id": 134, "Language": "eng", "Text": "Thank you for being such a great leader. The other team members and I are really inspired by your actions.", "Categories": ["Boss"] },
 		{ "Id": 135, "Language": "eng", "Text": "Thanks a lot for your help – I couldn’t have done it without you{ {NAME}}!", "Categories": ["Basic"] }
+		{ "Id": 136, "Language": "eng", "Text": "Thanks mi pana 👍", "Categories": ["Basic"] },
 	]
 }
