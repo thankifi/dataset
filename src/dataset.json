@@ -1,0 +1,1177 @@
+{
+	"Categories": [
+		{
+			"Id": "c60b7643-2b47-4134-a0ca-ca86cfac23ee",
+			"Title": "basic"
+		},
+		{
+			"Id": "f933fa6f-8494-4964-9939-6ce63b52eb44",
+			"Title": "mentorship"
+		},
+		{
+			"Id": "b3f04ac1-9639-4e3a-9401-f68eaf331f36",
+			"Title": "wedding"
+		},
+		{
+			"Id": "97b8fbfc-0767-414a-9406-db2887ad5345",
+			"Title": "services"
+		},
+		{
+			"Id": "24df2afe-92bb-4df7-9a4c-c38a20134aac",
+			"Title": "christmas"
+		},
+		{
+			"Id": "5521f90b-b6cd-4ce4-a24a-16ab00abfc2d",
+			"Title": "boss"
+		},
+		{
+			"Id": "813876be-1902-4e74-bdd6-6bb1c41dfea3",
+			"Title": "business"
+		},
+		{
+			"Id": "f7253bb8-3918-485b-8aae-01df37196cc6",
+			"Title": "support"
+		},
+		{
+			"Id": "87b4caad-97f1-4fb7-8fba-6d97b0fd6faa",
+			"Title": "patience"
+		},
+		{
+			"Id": "932afd34-6836-4a25-8807-412c54f23efe",
+			"Title": "birthday"
+		},
+		{
+			"Id": "97f8eae7-d239-4646-bc6e-4c39efce1492",
+			"Title": "hospitality"
+		},
+		{
+			"Id": "1b162b3d-4fa0-45e2-8553-395d57641260",
+			"Title": "emoji"
+		},
+		{
+			"Id": "0993d36f-fcd0-434f-8f67-1866bad14e79",
+			"Title": "compliment"
+		},
+		{
+			"Id": "ced19355-018d-4e2d-9ee0-af280a119a4b",
+			"Title": "help"
+		},
+		{
+			"Id": "724e1dd1-cb4d-45f9-be31-51a649096f9d",
+			"Title": "religious"
+		},
+		{
+			"Id": "b487bc10-1edf-4d34-b913-c59c27deed87",
+			"Title": "art"
+		}
+	],
+	"Gratitudes": [
+		{
+			"Id": "e8740cb4-73a3-4adc-9a70-60fc8d2b201b",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "3cbe1302-950f-4eaf-a75a-2146c7419f89",
+			"Language": "eng",
+			"Text": "Thank you very much{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "0e9f8ee4-f3ea-45c4-a7fe-cfb2c344e060",
+			"Language": "eng",
+			"Text": "🙏",
+			"Categories": [
+				"basic",
+				"emoji"
+			]
+		},
+		{
+			"Id": "6d996522-cea3-405c-8c3e-9016cf5d621c",
+			"Language": "tlh",
+			"Text": "qatlho'",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "89fa4a63-f19e-4fa4-b882-981b2f0ba80e",
+			"Language": "tlh",
+			"Text": "majQa'",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "f263d785-b8c5-46c7-8587-f26502259897",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "ecd9266f-040b-4f48-893d-310d25a64344",
+			"Language": "eng",
+			"Text": "Thanks{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "1e779db9-cffe-4d99-8f1b-bfec2cb42693",
+			"Language": "eng",
+			"Text": "Thanks a lot{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "cd26c101-e39b-44e4-9261-b3c4fa1ce330",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT}}. That’s very kind of you.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "d8b9ce1f-176e-4f11-ab8d-3e9452b8abec",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT}}. You’re so helpful.",
+			"Categories": [
+				"basic",
+				"help"
+			]
+		},
+		{
+			"Id": "d7c0371f-8fb4-4590-aec5-9a64d693058c",
+			"Language": "eng",
+			"Text": "Thanks for your kind words{ {SUBJECT}}.",
+			"Categories": [
+				"compliment"
+			]
+		},
+		{
+			"Id": "66c87997-5053-4f38-a400-777921666deb",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }I really appreciate your help.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "d290fd23-1623-436b-94d6-835335040b29",
+			"Language": "eng",
+			"Text": "{{SUBJECT} }I want you to know how much I value your support.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "ef16a9c3-1e85-4d0e-bab6-6dc8ddc5b930",
+			"Language": "eng",
+			"Text": "I really appreciate all the hard work you’ve done to help me{ {SUBJECT}}.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "63cc8dc9-8d00-4f0a-9d88-e1a6a13bc4d3",
+			"Language": "eng",
+			"Text": "How can I ever thank you enough? Thank you{ {SUBJECT}}.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "63da021f-28ef-4a7b-a05b-95cad322f063",
+			"Language": "eng",
+			"Text": "I wholeheartedly appreciate everything you’ve done for me{ {SUBJECT}}.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "90bb0f0b-8981-4b54-84b2-5d67bca85b40",
+			"Language": "eng",
+			"Text": "Thank you for your guidance and support{ {SUBJECT}}.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "405992d2-dbd6-4aab-9516-7a10bbb86a8f",
+			"Language": "eng",
+			"Text": "I cannot thank you enough for helping me{ {SUBJECT}}.",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "dbbbe2c5-07cf-4b13-8b53-15d2db64279c",
+			"Language": "eng",
+			"Text": "Thank you for sharing your wisdom with me{ {SUBJECT}}",
+			"Categories": [
+				"help"
+			]
+		},
+		{
+			"Id": "3d7a31b8-dc18-41ac-b844-ba8a92ed376f",
+			"Language": "eng",
+			"Text": "Thank you for coming{ {SUBJECT}}.",
+			"Categories": [
+				"wedding",
+				"birthday"
+			]
+		},
+		{
+			"Id": "0a1693ec-6dce-4db3-84bf-b721f2edcfd7",
+			"Language": "eng",
+			"Text": "Thank you for joining us today{ {SUBJECT}}.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "832ba690-4001-4ecc-9c15-c1277de46e35",
+			"Language": "eng",
+			"Text": "We appreciate you sharing our celebrations with us{ {SUBJECT}}.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "5286ba18-785a-479d-81bd-1f5b08dbf084",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for sharing this special day with us.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "fbadebbe-aedb-4952-8664-81d0e222a8aa",
+			"Language": "eng",
+			"Text": "We really appreciate your presence here{ {SUBJECT}}.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "28c4f53b-9b5c-46cb-87b1-05233b178f20",
+			"Language": "eng",
+			"Text": "Thank you for the gift{ {SUBJECT}}, we’re very grateful.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "e47eec9f-1dfc-4489-9c61-04e24559eb31",
+			"Language": "eng",
+			"Text": "We cannot thank you enough for the wonderful gift{ {SUBJECT}}.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "316e79b7-6a36-4f48-b284-820b795c1afd",
+			"Language": "eng",
+			"Text": "We will remember this day and your contribution forever.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "02f97967-11c9-42f1-be0c-2a55de6ce07a",
+			"Language": "eng",
+			"Text": "You were invaluable today{ {SUBJECT}}, thank you for all your help.",
+			"Categories": [
+				"wedding",
+				"help",
+				"birthday"
+			]
+		},
+		{
+			"Id": "cf12cd2c-d1d7-4092-94c3-67875a33fd5d",
+			"Language": "eng",
+			"Text": "What would we have done without your help? Thank you so much{ {SUBJECT}}. (Rhetorical question)",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "d4f7d534-16d6-4d3e-b6a5-2bdc7097aad3",
+			"Language": "eng",
+			"Text": "Thank you ever so much for your generous gift{ {SUBJECT}}.",
+			"Categories": [
+				"wedding",
+				"birthday",
+				"christmas"
+			]
+		},
+		{
+			"Id": "dc502c72-ba3e-4ed5-865b-d02c738be706",
+			"Language": "eng",
+			"Text": "Words cannot describe how grateful we are{ {SUBJECT}}.",
+			"Categories": [
+				"wedding"
+			]
+		},
+		{
+			"Id": "fced7429-7dfa-4b71-8e61-2eff64b0c7d4",
+			"Language": "eng",
+			"Text": "Thank you for joining me today{ {SUBJECT}}.",
+			"Categories": [
+				"birthday"
+			]
+		},
+		{
+			"Id": "f6b25bfe-60a7-4bba-b47d-8c620be37e57",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for sharing this special day with me.",
+			"Categories": [
+				"birthday"
+			]
+		},
+		{
+			"Id": "1fcdf1e0-da8b-4c8b-a222-d8694e2cf4e8",
+			"Language": "eng",
+			"Text": "I really appreciate your presence here{ {SUBJECT}}.",
+			"Categories": [
+				"birthday"
+			]
+		},
+		{
+			"Id": "13f28a9f-27fb-4fce-83f0-c10e3b61578f",
+			"Language": "eng",
+			"Text": "Thank you for the gift{ {SUBJECT}}, I'm very grateful.",
+			"Categories": [
+				"birthday",
+				"christmas"
+			]
+		},
+		{
+			"Id": "c5e575a8-469e-49de-b4e9-a13cbe7f98f8",
+			"Language": "eng",
+			"Text": "I cannot thank you enough for the wonderful gift{ {SUBJECT}}.",
+			"Categories": [
+				"birthday",
+				"christmas"
+			]
+		},
+		{
+			"Id": "33a71927-c097-4ea8-8adc-087864646f60",
+			"Language": "eng",
+			"Text": "Words cannot describe how grateful I'm{ {SUBJECT}}.",
+			"Categories": [
+				"basic",
+				"birthday"
+			]
+		},
+		{
+			"Id": "0ab50a94-b395-4707-9631-2ec7d04b849c",
+			"Language": "eng",
+			"Text": "🙇‍♂️",
+			"Categories": [
+				"emoji"
+			]
+		},
+		{
+			"Id": "1689a29a-97d3-4136-88fd-073432e1e80a",
+			"Language": "eng",
+			"Text": "🙇‍♀️",
+			"Categories": [
+				"emoji"
+			]
+		},
+		{
+			"Id": "eccdf208-c237-4617-a567-fc8577d6f67c",
+			"Language": "eng",
+			"Text": "🙌😊🙌",
+			"Categories": [
+				"emoji"
+			]
+		},
+		{
+			"Id": "0781ea4b-301c-4b91-8421-201a0140a5c0",
+			"Language": "eng",
+			"Text": "(･U･)ﾉ✲ﾟƬʜᵃℕҡ ყօϋ",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "73db805a-83d3-491b-a565-8505d5fa952d",
+			"Language": "eng",
+			"Text": "(人*´∪`)♪ тнайк　чоц♪(´∪`*人)",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "417478fc-713c-4cb5-9f2b-ce0f2c304519",
+			"Language": "eng",
+			"Text": "ෆ⃛  [τ̲̅н̲̅a̲̅и̲̅κ̲̅ ч̲̅o̲̅u̲̅]ｮᴗ ◕ั๑)ෆ⃛",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "77eeb76c-1ea3-422f-8af6-9c9e69cc6003",
+			"Language": "eng",
+			"Text": "░♡░┳┣I░A░Ⓝ░К▒❀▒УOЦ░♡░",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "00633767-18a5-495e-a45b-67e557e5ecf0",
+			"Language": "eng",
+			"Text": "ღԵհɑղƘՏღ( ؔ✪̤ ◡ ؔ✪̤` ๑)",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "c724a322-c30e-40aa-9b18-df77d445e577",
+			"Language": "eng",
+			"Text": "(●´艸｀）。ｏ*тнайк чоц*ｏ。(´艸｀○)",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "3a466374-8001-4a75-ad76-50e98d61c5c0",
+			"Language": "eng",
+			"Text": "ପ(๑•̀ुᴗ•̀ु)* ॣ৳৸ᵃᵑᵏ Ꮍ৹੫ᵎ *ॣ",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "eb9de1fa-eaa5-49c7-aa3d-e31967970a21",
+			"Language": "eng",
+			"Text": "(人❛ᴗ❛)♪тнайк　чоц♪(❛ᴗ❛*人)",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "556b74ed-0642-40ae-9d2f-5d4e7045d365",
+			"Language": "eng",
+			"Text": "(人❛ᴗ❛)♪ тнайк　чоц ♪(❛ᴗ❛*人)",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "738c4c32-0b87-43f1-b067-de2cd6cd9c97",
+			"Language": "eng",
+			"Text": "(m)(.__.)(m)Thank you.",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "bcdfaeb4-8334-4432-9f29-8dede2a5ec16",
+			"Language": "eng",
+			"Text": "Ⓣⓗⓐⓝⓚ Ⓨⓞⓤ",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "641e354e-6c68-4364-a57e-b07ba946c967",
+			"Language": "eng",
+			"Text": "Thanks♪(･ω･)ﾉ",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "a8882aac-845e-4636-a7ba-cd7a759695af",
+			"Language": "eng",
+			"Text": "(୨୧•͈ᴗ•͈)◞ᵗʱᵃᵑᵏઽ*♡",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "2afa39bd-8b97-4514-8a35-d51ae9d4f553",
+			"Language": "eng",
+			"Text": "꒰♥︎꒱४ᵃʳⁱᵍᵅᵗᵒ꒰´͈ॢદॢˋ͈♡꒱",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "94febec5-5417-4e6f-87e7-f34e7fbba5d3",
+			"Language": "eng",
+			"Text": "THAA━━｡ﾟ(ﾟﾉ∀｀*ﾟ)ﾟ｡━━NKS!!!!!",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "f53746c1-bc8f-432e-a367-2615fb50e8df",
+			"Language": "eng",
+			"Text": "Ƭʜᵃℕҡ ყօϋ",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "fe353a5f-5409-42c6-ae7c-27c73b05efd2",
+			"Language": "eng",
+			"Text": "✲ﾟƬʜᵃℕҡ ყօϋ",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "e8c132f3-7d43-4ff7-af78-e97be6ba491a",
+			"Language": "eng",
+			"Text": "♡*.·ा৸੨꒖ઝ ഴ०꒵ ･:*♡",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "35967545-52d9-4f6d-b3e3-4f3ad90ac6ef",
+			"Language": "eng",
+			"Text": "(*･艸･)｡+:*○тнайк　чоц｡+:*○",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "22af5ec0-dc80-4c1c-9cec-52f60cf99c4e",
+			"Language": "eng",
+			"Text": "*⁎ᎢℋᎪɳᏦ  ᎩӫᏌ⁎*⋆",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "dbac3921-17af-47a7-b03e-9fa06e8d5f96",
+			"Language": "eng",
+			"Text": "⑅✩♡ᵗʱᵃᵑᵏઽ*♡♬＊°",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "d17351a4-a926-4d32-a1af-582dd1a3b214",
+			"Language": "eng",
+			"Text": ":*･ﾟ☆.｡.:*･ﾟ￡(｡･”･)o[†…Thanks…†]o(･”･｡)β｡.:*･ﾟ☆.｡.:*",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "8f5fc482-cfe6-42bf-9c7b-e3807ad070ff",
+			"Language": "eng",
+			"Text": "♥(✿ฺ´∀`✿ฺ)ﾉ ✿ฺ･:*:ТНДЙК УОЦ･･:*:･✿ฺ~",
+			"Categories": [
+				"art"
+			]
+		},
+		{
+			"Id": "796cd496-6264-4d9c-8459-f7022cb1c185",
+			"Language": "eng",
+			"Text": "Thank you for the Christmas wishes{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "9ff549e4-4946-4eca-9fe6-687669b7858f",
+			"Language": "eng",
+			"Text": "I’d like to say a warm thank you to you this Christmas{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "21fadbec-043c-416a-bdfd-482d11af1dcd",
+			"Language": "eng",
+			"Text": "I’d like to say a warm thank you to you{ {SUBJECT} }this Christmas.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "98124be9-38c6-48f9-8019-637de2c6a81a",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for making me feel special this Christmas.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "5f104c01-497c-4705-ac85-d00ce6d97139",
+			"Language": "eng",
+			"Text": "Thanks for the Christmas gifts{ {SUBJECT}}; I love them!",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "03965fba-6070-4bb3-903b-27cdc3ca66ef",
+			"Language": "eng",
+			"Text": "It has been a very special Christmas thanks to you. Happy Holidays{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "209c2885-dc7b-4952-962c-a88894f53fa2",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for the wonderful Christmas feast!",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "5ecd425c-ed59-4fe8-bb97-bf3ae64d2fb9",
+			"Language": "eng",
+			"Text": "Thank you for including us in your Christmas festivities{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "7483791a-4855-4095-937f-cdeb496da6c7",
+			"Language": "eng",
+			"Text": "Thank you for a memorable Christmas gathering.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "5fdc2295-c1b5-4e75-982c-e67ac32bd226",
+			"Language": "eng",
+			"Text": "You are a very gracious host{ {SUBJECT}}. Thank you for the warm invite.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "1bff0c11-4ef2-4fd6-93a9-f88b4ac1a283",
+			"Language": "eng",
+			"Text": "Thank you for the beautiful Christmas card{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "e2f117a2-d76c-476f-b726-5440cd409b88",
+			"Language": "eng",
+			"Text": "Thank you for spreading the Christmas cheer{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "26f07cd2-4e77-401b-9a31-5cfb0142142a",
+			"Language": "eng",
+			"Text": "What a magical Christmas experience! Thank you{ {SUBJECT}}.",
+			"Categories": [
+				"christmas"
+			]
+		},
+		{
+			"Id": "a1313094-7c7f-4946-a228-81806a86e4a6",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for extending compassion and flexibility when I needed it.",
+			"Categories": [
+				"help",
+				"boss"
+			]
+		},
+		{
+			"Id": "a8b052f9-1036-4597-9cf0-c41838488284",
+			"Language": "eng",
+			"Text": "As a supervisor, you are truly inspirational to your staff{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "e51fff91-5e3d-4738-803b-d0cc43ab3bf3",
+			"Language": "eng",
+			"Text": "Your strong leadership skills along with your support has earned you much deserved respect. Thank you{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "4ecaaaf3-59ba-45ce-9d03-bb0eff795ea8",
+			"Language": "eng",
+			"Text": "Your support and dedication to your team has earned you much deserved admiration. Thank you{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "5b8b86ea-6ea1-4935-9d07-8815d8dc90a7",
+			"Language": "eng",
+			"Text": "I am thankful to be a part of your team{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "6920d3e1-75df-4e6c-bff6-dbb8c4abff2b",
+			"Language": "eng",
+			"Text": "We are grateful for your kindness, loyalty and commitment to all of us{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "3de5cd8a-f768-4abe-834b-50fd20f7cedb",
+			"Language": "eng",
+			"Text": "If there ever was a boss who deserves praise and adulation, that person is you{ {SUBJECT}}!",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "24ac8be2-8242-4853-b14f-878c78c547ba",
+			"Language": "eng",
+			"Text": "Thank you for providing us with such a great working environment{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "2469f968-3b6b-49e3-b643-9ad76f22e157",
+			"Language": "eng",
+			"Text": "I want to thank you for the expression of faith in my abilities{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "0a2380c0-115c-4936-a1fe-67334e007236",
+			"Language": "eng",
+			"Text": "Allow me to express my sincerest gratitude for this opportunity you have given me{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "4992e76d-ce7a-4f2d-8e77-54d110b3c927",
+			"Language": "eng",
+			"Text": "I value the trust you have put into me and will work hard to maintain it{ {SUBJECT}}.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "0b3d10bc-2cf0-4bcd-9c12-239f54692e6d",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for your support, guidance and encouragement.",
+			"Categories": [
+				"boss",
+				"help",
+				"support"
+			]
+		},
+		{
+			"Id": "c92456c4-8c43-4518-9038-4bd1662c9a66",
+			"Language": "eng",
+			"Text": "Thank you very much{ {SUBJECT}}; your support is greatly appreciated.",
+			"Categories": [
+				"business",
+				"support"
+			]
+		},
+		{
+			"Id": "d74fd256-08db-467d-ab56-def0d6353112",
+			"Language": "eng",
+			"Text": "I am most grateful for your support{ {SUBJECT}}.",
+			"Categories": [
+				"business",
+				"support"
+			]
+		},
+		{
+			"Id": "f2197fd3-e0de-470a-a40a-faf7b080f2e9",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for all your assistance.",
+			"Categories": [
+				"business",
+				"support"
+			]
+		},
+		{
+			"Id": "1f167ad2-4c0a-433a-ab4a-d3c0ff7e6184",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for raising your concerns.",
+			"Categories": [
+				"business",
+				"support"
+			]
+		},
+		{
+			"Id": "6221c119-d868-4d32-b410-d6f6e2bd5bf2",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for your kind co-operation.",
+			"Categories": [
+				"business",
+				"support"
+			]
+		},
+		{
+			"Id": "1a251ab7-d063-4dbe-9b7c-06c4279bf0f6",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for your attention to this matter.",
+			"Categories": [
+				"business"
+			]
+		},
+		{
+			"Id": "1b373ee8-5084-4f99-b880-42c110ea8c82",
+			"Language": "eng",
+			"Text": "Thank you{ {SUBJECT} }for your consideration.",
+			"Categories": [
+				"business"
+			]
+		},
+		{
+			"Id": "bc795b40-6cfc-4d21-aaa4-7c276ee71245",
+			"Language": "eng",
+			"Text": "Thank you once again for everything you’ve done{ {SUBJECT}}.",
+			"Categories": [
+				"business",
+				"support"
+			]
+		},
+		{
+			"Id": "3dd2b4d5-e5fa-4f24-b55e-f20854efce64",
+			"Language": "spa",
+			"Text": "Gracias{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "4a60f687-ef3a-46c7-908f-173d5cdc8e7f",
+			"Language": "spa",
+			"Text": "Gracias{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "36d0a3ed-24ed-4ded-b4f4-762b53804a22",
+			"Language": "spa",
+			"Text": "Muchas gracias{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "f4074e2d-4540-4b00-90a2-ec5ef467b9c1",
+			"Language": "spa",
+			"Text": "De verdad, gracias{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "ded4165e-3b22-4ec5-a609-56546ee2e3ce",
+			"Language": "spa",
+			"Text": "De verdad, muchas gracias{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "f7fc2f58-5386-4c51-8d49-f4b85df002c0",
+			"Language": "ita",
+			"Text": "Grazie{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "5a9287d8-630c-48d4-9aa0-6576b8d2de84",
+			"Language": "ita",
+			"Text": "Grazie mille{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "031ee196-d22c-4ca6-b606-7b2e515bdc59",
+			"Language": "fra",
+			"Text": "Merci{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "ba901cf9-2398-43d3-90b5-a2520d07d6f7",
+			"Language": "fra",
+			"Text": "Merci Beaucoup{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "9e84312a-9819-433e-9f1c-da9e4decdc4f",
+			"Language": "deu",
+			"Text": "Danke{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "1e32882c-c066-453e-aa3c-2c0537224dff",
+			"Language": "deu",
+			"Text": "Vielen Dank! Danke Schön!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "db614aa1-d9aa-4ed7-bbea-091cd142edde",
+			"Language": "jpn",
+			"Text": "ありがとう",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "5d2fb675-1ac6-42a0-8f28-40e995d0c649",
+			"Language": "jpn",
+			"Text": "どうもありがとうございました",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "ae348732-b11b-48cb-9883-9f78e4ff8ae4",
+			"Language": "zho",
+			"Text": "谢谢",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "0554eef3-12bd-4f77-a65c-22187ee9472d",
+			"Language": "zho",
+			"Text": "非常感谢你",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "5253f0c0-456f-4e0c-af0f-c01006abb50a",
+			"Language": "cmm",
+			"Text": "谢谢",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "13cff86e-4389-4d59-9336-60e1b6a0194d",
+			"Language": "kor",
+			"Text": "고맙습니다",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "40f0573a-8144-44b8-abfb-c2d91073c63d",
+			"Language": "kor",
+			"Text": "대단히 감사합니다",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "a430ad98-697b-443f-93a7-42a8830a8fbe",
+			"Language": "rus",
+			"Text": "Спасибо.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "d840e129-5e0a-4f7e-a691-7a42dbf6b6e8",
+			"Language": "rus",
+			"Text": "большое спасибо.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "afdd318d-1972-4ffe-a908-35b664ec17dc",
+			"Language": "por",
+			"Text": "Obrigado.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "071238d4-1711-447f-8454-7e7a8970887e",
+			"Language": "por",
+			"Text": "Muito Obrigado.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "168284a1-44ca-44b4-8acf-2fa329181572",
+			"Language": "ara",
+			"Text": "Shukraan Lakum",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "bef11793-aca0-4ca1-abd0-87a3d6027483",
+			"Language": "ara",
+			"Text": "Shukraan Jazilaan",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "f57f2e18-2ea4-432b-bd05-ab7d93b7aebb",
+			"Language": "ell",
+			"Text": "Ευχαριστώ.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "db900990-c3ca-4c5e-9e39-fddf96bbd774",
+			"Language": "ell",
+			"Text": "Ευχαριστώ πολύ.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "5a1c379b-3152-4290-9d40-3e80cd1cc43c",
+			"Language": "vie",
+			"Text": "Cảm ơn bạn.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "a1fea9dc-8c61-4b2a-88d5-5677bfa9c1ff",
+			"Language": "vie",
+			"Text": "Cảm ơn nhiều.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "876f015f-2f4f-4c85-a385-ee04187d4224",
+			"Language": "nid",
+			"Text": "Dank je",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "c85f117b-650a-4fc9-a0ed-204ba1a9ddb7",
+			"Language": "nid",
+			"Text": "Dank u zeer!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "5597dd1f-b2fa-430d-b47b-9fd462ddc038",
+			"Language": "hin",
+			"Text": "धन्यवाद",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "28b1a80c-6d58-459a-85c9-42a49c7e01b1",
+			"Language": "hin",
+			"Text": "आपका बहुत बहुत धन्यवाद",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "ddbddfb8-0d1b-4079-ab4d-87c488ab589e",
+			"Language": "hun",
+			"Text": "Köszönöm",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "d02bae18-9ea2-420c-8a4c-bf6c7181ed00",
+			"Language": "hun",
+			"Text": "Köszönöm szépen!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "5b63aab0-689a-46a4-a46e-5627c2833619",
+			"Language": "ukr",
+			"Text": "Dyakuyu Дякую",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "90b1c55e-f9a1-4c36-b061-ea6c918ab102",
+			"Language": "ukr",
+			"Text": "Велике спасибі",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "602ebc00-4b30-480e-a1c5-7544234b2cd4",
+			"Language": "eng",
+			"Text": "What you did for me was kind of a big deal. Thank you{ {SUBJECT}}.",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "cba85139-60e3-4732-9690-9160b1b907a4",
+			"Language": "eng",
+			"Text": "Thank you for being such a great leader. The other team members and I are really inspired by your actions.",
+			"Categories": [
+				"boss"
+			]
+		},
+		{
+			"Id": "d8f1157d-3db2-4149-ade7-e6cddd20af7a",
+			"Language": "eng",
+			"Text": "Thanks a lot for your help – I couldn’t have done it without you{ {SUBJECT}}!",
+			"Categories": [
+				"basic"
+			]
+		},
+		{
+			"Id": "e29c6848-3db0-4e17-b237-51838bbf6b7d",
+			"Language": "eng",
+			"Text": "Thanks mi pana 👍",
+			"Categories": [
+				"basic"
+			]
+		}
+	]
+}
