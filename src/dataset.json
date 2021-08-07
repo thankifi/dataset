@@ -2,67 +2,67 @@
 	"Categories": [
 		{
 			"Id": "c60b7643-2b47-4134-a0ca-ca86cfac23ee",
-			"Title": "basic"
+			"Slug": "basic"
 		},
 		{
 			"Id": "f933fa6f-8494-4964-9939-6ce63b52eb44",
-			"Title": "mentorship"
+			"Slug": "mentorship"
 		},
 		{
 			"Id": "b3f04ac1-9639-4e3a-9401-f68eaf331f36",
-			"Title": "wedding"
+			"Slug": "wedding"
 		},
 		{
 			"Id": "97b8fbfc-0767-414a-9406-db2887ad5345",
-			"Title": "services"
+			"Slug": "services"
 		},
 		{
 			"Id": "24df2afe-92bb-4df7-9a4c-c38a20134aac",
-			"Title": "christmas"
+			"Slug": "christmas"
 		},
 		{
 			"Id": "5521f90b-b6cd-4ce4-a24a-16ab00abfc2d",
-			"Title": "boss"
+			"Slug": "boss"
 		},
 		{
 			"Id": "813876be-1902-4e74-bdd6-6bb1c41dfea3",
-			"Title": "business"
+			"Slug": "business"
 		},
 		{
 			"Id": "f7253bb8-3918-485b-8aae-01df37196cc6",
-			"Title": "support"
+			"Slug": "support"
 		},
 		{
 			"Id": "87b4caad-97f1-4fb7-8fba-6d97b0fd6faa",
-			"Title": "patience"
+			"Slug": "patience"
 		},
 		{
 			"Id": "932afd34-6836-4a25-8807-412c54f23efe",
-			"Title": "birthday"
+			"Slug": "birthday"
 		},
 		{
 			"Id": "97f8eae7-d239-4646-bc6e-4c39efce1492",
-			"Title": "hospitality"
+			"Slug": "hospitality"
 		},
 		{
 			"Id": "1b162b3d-4fa0-45e2-8553-395d57641260",
-			"Title": "emoji"
+			"Slug": "emoji"
 		},
 		{
 			"Id": "0993d36f-fcd0-434f-8f67-1866bad14e79",
-			"Title": "compliment"
+			"Slug": "compliment"
 		},
 		{
 			"Id": "ced19355-018d-4e2d-9ee0-af280a119a4b",
-			"Title": "help"
+			"Slug": "help"
 		},
 		{
 			"Id": "724e1dd1-cb4d-45f9-be31-51a649096f9d",
-			"Title": "religious"
+			"Slug": "religious"
 		},
 		{
 			"Id": "b487bc10-1edf-4d34-b913-c59c27deed87",
-			"Title": "art"
+			"Slug": "art"
 		}
 	],
 	"Gratitudes": [
